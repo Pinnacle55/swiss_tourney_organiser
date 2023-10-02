@@ -1,0 +1,7 @@
+# don't track csv files
+*.csv
+
+# don't track random folders
+.ipynb_checkpoints/*
+__pycache__/*
+FAB Scraping/*
